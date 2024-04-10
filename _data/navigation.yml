@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Publicatii"
+    url: /publicatii/
 
-  - title: "Talks"
-    url: /talks/    
+  - #title: "Talks"
+    #url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Surse"
+    url: /surse/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Portofoliu"
+    url: /portofoliu/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - #title: "Blog Posts"
+    #url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Date de contact"
+    url: /date-de-contact/
