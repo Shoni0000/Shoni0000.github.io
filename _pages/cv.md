@@ -13,26 +13,19 @@ Activitati
 ======
 * Finalist concurs robotica in 2022
 * #7 in Dambovita la OSC (Olimpiada de Securitate Cibernetica)
-  *(#1 la nivel de clasa a 10-a)
 * Finalist HTB Cyber Apocalypse 2024 (#121 la nivel international)
-* 
 
-Work experience
+
+Ce atacuri stii sa mitighezi?
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Bruteforce
+* DoS (Denial-of-Service)
+* DDoS (Distributed Denial-of-Service)
+* Man-In-The-Middle
+* Phishing
+* SQLi
+* XSS (Cross-Site Scripting)
+* CSRF (Cross-Site Request Forgery)
   
 Skills
 ======
