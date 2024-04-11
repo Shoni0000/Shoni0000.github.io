@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Experienta"
+permalink: /experienta/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Activitati
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Finalist concurs robotica in 2022
+* #7 in Dambovita la OSC (Olimpiada de Securitate Cibernetica)
+  *(#1 la nivel de clasa a 10-a)
+* Finalist HTB Cyber Apocalypse 2024 (#121 la nivel international)
+* 
 
 Work experience
 ======
@@ -34,19 +36,40 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Tool-uri
+  * Nmap
+  * Wireshark
+  * BloodHound
+  * Hydra
+  * Aircrack-ng
+  * Audacity
+  * John The Reaper
+  * Metasploit
+  * SQLMap
+  * Hashcat
+  * Mimikatz
+  * Burp Suite
+  * Netcat
+  * Snort
+  * Gobuster
+  * Nikto
+* Aplicatii
+  * Nessus
+  * Wazuh
+  * Splunk
+  * Elk
 
-Publications
+Arii CTF in care lucrez
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Jeopardy
+  * Misc
+  * OSINT
+  * Cryptography
+  * Web Exploitation
+  * Pwn
+  * Reverse Engineering
+* KOTH (King Of The Hill)
+* Attack & Defence
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
