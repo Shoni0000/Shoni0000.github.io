@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Salut! Bine ai venit pe pagina mea!"
+title: "👋Salut! Bine ai venit pe pagina mea!"
 author_profile: true
 redirect_from: 
   - /about/
